@@ -1,6 +1,6 @@
  📄 Resume
 - Download CV:  
-  https://github.com/Shamil78/Github-Portfolio/blob/main/Shamil-TP-CV.pdf
+  https://github.com/Shamil78/Github-Portfolio/blob/main/Shamil-TP-CV%20(N).pdf
 
 ---
 
